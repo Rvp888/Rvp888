@@ -10,7 +10,7 @@
 
 <h3>- 💬 Ask me about **Javascript**</h3>
 
-<h3>- 📫 How to reach me **rohanpalankar8@gmail.com**</h3>
+- 📫 How to reach me **rohanpalankar8@gmail.com**
 
 <br/>
 
