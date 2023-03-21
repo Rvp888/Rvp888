@@ -4,9 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rvp888&label=Profile%20views&color=0e75b6&style=flat" alt="Rvp888" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rvp888" alt="Rvp888" /></a> </p>
-
-
 - 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **Javascript**
@@ -26,6 +23,7 @@
 </p>
 
 # 📊 GitHub Stats:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rvp888" alt="Rvp888" /></a> </p>
 ![](https://github-readme-stats.vercel.app/api?username=Rvp888&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rvp888&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rvp888&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
