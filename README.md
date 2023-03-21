@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-- 🌱 I’m currently learning **React.js**
+<h1>- 🌱 I’m currently learning **React.js**</h1>
 
 - 💬 Ask me about **Javascript**
 
