@@ -6,9 +6,9 @@
 <br/>
 <br/>
 
-<h3>- 🌱 I’m currently learning **React.js**</h3>
+- 🌱 I’m currently learning **React.js**
 
-<h3>- 💬 Ask me about **Javascript**</h3>
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **rohanpalankar8@gmail.com**
 
