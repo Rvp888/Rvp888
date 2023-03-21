@@ -23,7 +23,7 @@
 </p>
 
 # 📊 GitHub Stats:
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rvp888" alt="Rvp888" /></a> </p>
+
 ![](https://github-readme-stats.vercel.app/api?username=Rvp888&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rvp888&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rvp888&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
