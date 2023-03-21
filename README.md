@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-<h1 style="font-size:10px">- 🌱 I’m currently learning **React.js**</h1>
+<h1 style="font-size:10px;">- 🌱 I’m currently learning **React.js**</h1>
 
 - 💬 Ask me about **Javascript**
 
