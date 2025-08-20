@@ -1,16 +1,12 @@
-# Hi there 👋, I'm Rohan Palankar  
+# Hi there 👋, I'm Rohan Palankar
 
-<div align="left" style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex: 1; padding-right: 20px;">
-    💻 <b>Web UI Developer</b> with 2+ years of experience in crafting responsive, accessible, and high-performance front-end applications.  
-    🚀 Skilled in modern frameworks and libraries, I love turning complex UI/UX designs into clean, scalable code.
-  </div>
-  <div style="flex-shrink: 0;">
-    <img alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-  </div>
-</div>
+<img align="right" alt="Coding" width="300"
+     src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+**Web UI Developer** with 2+ years of experience in crafting responsive, accessible, and high-performance front-end applications.  
+🚀 Skilled in modern frameworks and libraries, I love turning complex UI/UX designs into clean, scalable code.
 
+<br clear="right"/>
 
 
 ---
@@ -27,7 +23,7 @@
 
 **Tools:**  
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)  ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)  ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)   ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)
 
 ---
 
