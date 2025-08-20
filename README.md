@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      💻 <b>Web UI Developer</b> with 2+ years of experience in crafting responsive, accessible, and high-performance front-end applications. <br><br>
+      💻 <b>Web UI Developer</b> with 2+ years of experience in crafting responsive, accessible, and high-performance front-end applications. <br>
       🚀 Skilled in modern frameworks and libraries, I love turning complex UI/UX designs into clean, scalable code.
     </td>
     <td>
