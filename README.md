@@ -1,16 +1,15 @@
 # Hi there 👋, I'm Rohan Palankar  
 
-<table>
-  <tr>
-    <td>
-      💻 <b>Web UI Developer</b> with 2+ years of experience in crafting responsive, accessible, and high-performance front-end applications.
-      🚀 Skilled in modern frameworks and libraries, I love turning complex UI/UX designs into clean, scalable code.
-    </td>
-    <td>
-      <img alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-    </td>
-  </tr>
-</table>
+<div align="left" style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1; padding-right: 20px;">
+    💻 <b>Web UI Developer</b> with 2+ years of experience in crafting responsive, accessible, and high-performance front-end applications.  
+    🚀 Skilled in modern frameworks and libraries, I love turning complex UI/UX designs into clean, scalable code.
+  </div>
+  <div style="flex-shrink: 0;">
+    <img alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  </div>
+</div>
+
 
 
 
