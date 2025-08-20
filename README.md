@@ -1,11 +1,13 @@
 # Hi there 👋, I'm Rohan Palankar  
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">  
+
 💻 **Web UI Developer** with 2+ years of experience in crafting responsive, accessible, and high-performance front-end applications.  
 🚀 Skilled in modern frameworks and libraries, I love turning complex UI/UX designs into clean, scalable code.  
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p> <img src="https://komarev.com/ghpvc/?username=Rvp888&label=Profile%20views&color=0e75b6&style=flat" alt="Rvp888" /> </p>
+<p>
+ <img src="https://komarev.com/ghpvc/?username=Rvp888&label=Profile%20views&color=0e75b6&style=flat" alt="Rvp888" />
+</p>
 
 ---
 
@@ -70,5 +72,6 @@
 ---
 
 ⭐️ *Always open to collaboration on interesting UI/Frontend projects and SaaS applications.*  
+
 
 
