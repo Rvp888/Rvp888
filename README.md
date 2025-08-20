@@ -1,7 +1,17 @@
 # Hi there 👋, I'm Rohan Palankar  
 
-| 💻 **Web UI Developer** with 2+ years of experience in crafting responsive, accessible, and high-performance front-end applications. 🚀 Skilled in modern frameworks and libraries, I love turning complex UI/UX designs into clean, scalable code. | <img alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> |
-|---|---|
+<table>
+  <tr>
+    <td>
+      💻 <b>Web UI Developer</b> with 2+ years of experience in crafting responsive, accessible, and high-performance front-end applications. <br><br>
+      🚀 Skilled in modern frameworks and libraries, I love turning complex UI/UX designs into clean, scalable code.
+    </td>
+    <td>
+      <img alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+    </td>
+  </tr>
+</table>
+
 
 
 ---
