@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Rohan Palankar
 
-<img align="right" alt="Coding" width="250"
+<img align="right" alt="Coding" width="220"
      src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 **Web UI Developer** with 2+ years of experience in crafting responsive, accessible, and high-performance front-end applications.  
