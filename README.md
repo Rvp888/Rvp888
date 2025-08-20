@@ -43,8 +43,7 @@
 ## 📫 Let’s Connect  
 
 [![Email](https://img.shields.io/badge/Email-rohanpalankar8%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:rohanpalankar8@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohan%20Palankar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rohan-palankar-0b55921a2/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-RohanPalankar-yellow?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/RohanPalankar/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohan%20Palankar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rohan-palankar-0b55921a2/) 
 
 ---
 
