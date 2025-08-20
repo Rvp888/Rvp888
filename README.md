@@ -33,12 +33,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rvp888&show_icons=true&theme=tokyonight)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rvp888&theme=tokyonight)   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rvp888&layout=compact&theme=tokyonight) 
-
----
-
 ## 🌱 Currently Exploring  
 - Advanced React.js & performance optimization techniques  
 - System design & scalable front-end architectures  
