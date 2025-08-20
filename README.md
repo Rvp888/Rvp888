@@ -1,29 +1,70 @@
-<h1 align="center">Hi 👋, I'm Rohan Palankar</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+# Hi there 👋, I'm Rohan Palankar  
 
-<p> <img src="https://komarev.com/ghpvc/?username=Rvp888&label=Profile%20views&color=0e75b6&style=flat" alt="Rvp888" /> </p>
-<br/>
-<br/>
+💻 **Web UI Developer** with 2+ years of experience in crafting responsive, accessible, and high-performance front-end applications.  
+🚀 Skilled in modern frameworks and libraries, I love turning complex UI/UX designs into clean, scalable code.  
 
-- 🌱 I’m currently learning **React.js**
+---
 
-- 💬 Ask me about **Javascript**
+## 🛠️ Tech Stack  
 
-- 📫 How to reach me **rohanpalankar8@gmail.com**
+**Languages:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 
-<br/>
+**Frameworks & Libraries:**  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+![Angular Material](https://img.shields.io/badge/Angular_Material-757575?style=flat&logo=angular&logoColor=white)  
+![PrimeNG](https://img.shields.io/badge/PrimeNG-0C7C59?style=flat&logo=primefaces&logoColor=white)  
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
+**Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)  
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)  
 
-# 📊 GitHub Stats:
+---
 
-![](https://github-readme-stats.vercel.app/api?username=Rvp888&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rvp888&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rvp888&theme=dark&hide_border=false)
+## 📂 Featured Projects  
 
+🔹 **LeadAngel – CRM Integrated SaaS Application**  
+- Built UI components for CRM modules integrated with Salesforce, HubSpot & MS Dynamics.  
+- Designed calendar UIs for Google Calendar, Microsoft Teams, and Zoom integrations.  
+- Improved performance by optimizing CSS/SASS architecture and reducing unused styles.  
 
-## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rvp888&theme=juicyfresh" alt="Rvp888" /></a> </p>
+*(More projects coming soon...)*  
+
+---
+
+## 📊 GitHub Stats  
+
+![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rvp888&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rvp888&layout=compact&theme=tokyonight)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rvp888&theme=tokyonight)  
+
+---
+
+## 🌱 Currently Exploring  
+- Advanced React.js & performance optimization techniques  
+- System design & scalable front-end architectures  
+- Open-source contributions  
+
+---
+
+## 📫 Let’s Connect  
+
+[![Email](https://img.shields.io/badge/Email-rohanpalankar8%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:rohanpalankar8@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohan%20Palankar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rohan-palankar-0b55921a2/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Rvp888-black?style=flat&logo=github)](https://github.com/Rvp888)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-RohanPalankar-yellow?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/RohanPalankar/)  
+
+---
+
+⭐️ *Always open to collaboration on interesting UI/Frontend projects and SaaS applications.*  
+
 
