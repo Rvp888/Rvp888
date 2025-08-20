@@ -7,7 +7,7 @@
       🚀 Skilled in modern frameworks and libraries, I love turning complex UI/UX designs into clean, scalable code.
     </td>
     <td>
-      <img alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+      <img alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
     </td>
   </tr>
 </table>
