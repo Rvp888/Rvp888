@@ -1,14 +1,10 @@
-# Hi there 👋, I'm Rohan Palankar  
+ # Hi there 👋, I'm Rohan Palankar  
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between;">
   <div>
     💻 <b>Web UI Developer</b> with 2+ years of experience in crafting responsive, accessible, and high-performance front-end applications.  
     🚀 Skilled in modern frameworks and libraries, I love turning complex UI/UX designs into clean, scalable code.  
-  
-   <p>
-      <img src="https://komarev.com/ghpvc/?username=Rvp888&label=Profile%20views&color=0e75b6&style=flat" alt="Rvp888" />
-    </p>
-    </div>
+  </div>
 <div>
   <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  </div>
@@ -45,11 +41,7 @@
 
 ## 📊 GitHub Stats  
 
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rvp888&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rvp888&layout=compact&theme=tokyonight)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rvp888&theme=tokyonight)  
+![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rvp888&show_icons=true&theme=tokyonight)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rvp888&theme=tokyonight)   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rvp888&layout=compact&theme=tokyonight) 
 
 ---
 
