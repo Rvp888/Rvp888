@@ -15,7 +15,7 @@
 ---
 
 ## 🌐 Portfolio  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://your-portfolio-link.com](https://www.rohanvp.dev))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.rohanvp.dev)
 
 ---
 
