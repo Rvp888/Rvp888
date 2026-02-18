@@ -5,6 +5,8 @@
     <td>
       💻 <b>Frontend Developer</b> with 2+ years of experience in crafting responsive, accessible, and high-performance front-end applications.
       🚀 Skilled in modern frameworks and libraries, I love turning complex UI/UX designs into clean, scalable code.
+      <br/><br/>
+      🔗 <b>Explore my live portfolio below for detailed project walkthroughs.</b>
     </td>
     <td>
       <img alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
